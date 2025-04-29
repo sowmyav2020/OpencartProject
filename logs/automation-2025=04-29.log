@@ -1,0 +1,56 @@
+16:30:04.314 [main] INFO  testCases.TC001_AccountRegistrationTest -*****clicked on Register LInk*****
+16:30:04.348 [main] INFO  testCases.TC001_AccountRegistrationTest -*****Providing customer Details*****
+16:30:08.501 [main] INFO  testCases.TC001_AccountRegistrationTest -****validating expected message*****
+16:30:08.655 [main] INFO  testCases.TC001_AccountRegistrationTest -*****Finished TC001_AccountRegistrationTest*****
+16:30:24.384 [main] INFO  testCases.TC002_LoginTest -****starting TC002_LoginTest****
+16:30:28.244 [main] INFO  testCases.TC002_LoginTest -****finished TC002_LoginTest****
+17:53:59.224 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\sowmy\eclipse-workspace\OpencartProject\master.xml
+
+17:54:09.595 [main] INFO  testCases.TC001_AccountRegistrationTest -*****Starting TC001_AccountRegistrationTest*****
+17:54:10.379 [main] INFO  testCases.TC001_AccountRegistrationTest -*****Clicked on MyAccount Link*****
+17:54:11.941 [main] INFO  testCases.TC001_AccountRegistrationTest -*****clicked on Register LInk*****
+17:54:11.951 [main] INFO  testCases.TC001_AccountRegistrationTest -*****Providing customer Details*****
+17:54:14.931 [main] INFO  testCases.TC001_AccountRegistrationTest -****validating expected message*****
+17:54:15.079 [main] INFO  testCases.TC001_AccountRegistrationTest -*****Finished TC001_AccountRegistrationTest*****
+17:54:21.804 [main] INFO  testCases.TC002_LoginTest -****starting TC002_LoginTest****
+17:54:24.599 [main] INFO  testCases.TC002_LoginTest -****finished TC002_LoginTest****
+17:55:22.996 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\sowmy\eclipse-workspace\OpencartProject\master.xml
+
+17:55:32.514 [main] INFO  testCases.TC001_AccountRegistrationTest -*****Starting TC001_AccountRegistrationTest*****
+17:55:32.861 [main] INFO  testCases.TC001_AccountRegistrationTest -*****Clicked on MyAccount Link*****
+17:55:34.411 [main] INFO  testCases.TC001_AccountRegistrationTest -*****clicked on Register LInk*****
+17:55:34.419 [main] INFO  testCases.TC001_AccountRegistrationTest -*****Providing customer Details*****
+17:55:37.487 [main] INFO  testCases.TC001_AccountRegistrationTest -****validating expected message*****
+17:55:38.659 [main] INFO  testCases.TC001_AccountRegistrationTest -*****Finished TC001_AccountRegistrationTest*****
+17:55:46.918 [main] INFO  testCases.TC002_LoginTest -****starting TC002_LoginTest****
+17:55:51.028 [main] INFO  testCases.TC002_LoginTest -****finished TC002_LoginTest****
+18:00:54.682 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\sowmy\eclipse-workspace\OpencartProject\CrossbrowserTesting.xml
+
+18:01:03.740 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest -*****Starting TC001_AccountRegistrationTest*****
+18:01:03.954 [TestNG-tests-1] ERROR testCases.TC001_AccountRegistrationTest -Test failed
+18:01:08.785 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest -*****Starting TC001_AccountRegistrationTest*****
+18:01:09.549 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest -*****Clicked on MyAccount Link*****
+18:01:11.599 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest -*****clicked on Register LInk*****
+18:01:11.603 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest -*****Providing customer Details*****
+18:01:15.961 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest -****validating expected message*****
+18:01:17.568 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest -*****Finished TC001_AccountRegistrationTest*****
+13:00:14.371 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\sowmy\eclipse-workspace\OpencartProject\grid-docker.xml
+
+13:00:14.706 [main] INFO  testCases.TC001_AccountRegistrationTest -*****Starting TC001_AccountRegistrationTest*****
+13:00:14.731 [main] ERROR testCases.TC001_AccountRegistrationTest -Test failed
+13:58:37.663 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\sowmy\eclipse-workspace\OpencartProject\grid-docker.xml
+
+13:58:37.939 [main] INFO  testCases.TC001_AccountRegistrationTest -*****Starting TC001_AccountRegistrationTest*****
+14:19:56.021 [main] INFO  testCases.TC001_AccountRegistrationTest -*****Starting TC001_AccountRegistrationTest*****
+14:19:56.258 [main] INFO  testCases.TC001_AccountRegistrationTest -*****Clicked on MyAccount Link*****
+14:19:57.431 [main] INFO  testCases.TC001_AccountRegistrationTest -*****clicked on Register LInk*****
+14:19:57.436 [main] INFO  testCases.TC001_AccountRegistrationTest -*****Providing customer Details*****
+14:19:59.814 [main] INFO  testCases.TC001_AccountRegistrationTest -****validating expected message*****
+14:19:59.897 [main] INFO  testCases.TC001_AccountRegistrationTest -*****Finished TC001_AccountRegistrationTest*****
+14:20:07.597 [main] INFO  testCases.TC002_LoginTest -****starting TC002_LoginTest****
+14:20:10.173 [main] INFO  testCases.TC002_LoginTest -****finished TC002_LoginTest****

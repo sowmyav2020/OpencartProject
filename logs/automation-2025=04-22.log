@@ -1,0 +1,59 @@
+16:06:54.979 [main] INFO  testCases.TC001_AccountRegistrationTest -*****clicked on Register LInk*****
+16:06:55.003 [main] INFO  testCases.TC001_AccountRegistrationTest -*****Providing customer Details*****
+16:06:58.943 [main] INFO  testCases.TC001_AccountRegistrationTest -****validating expected message*****
+16:06:59.102 [main] INFO  testCases.TC001_AccountRegistrationTest -*****Finished TC001_AccountRegistrationTest*****
+16:07:08.723 [main] INFO  testCases.TC002_LoginTest -****starting TC002_LoginTest****
+16:07:11.864 [main] INFO  testCases.TC002_LoginTest -****finished TC002_LoginTest****
+16:09:12.582 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\sowmy\eclipse-workspace\OpencartProject\grouping.xml
+
+16:09:25.055 [main] INFO  testCases.TC001_AccountRegistrationTest -*****Starting TC001_AccountRegistrationTest*****
+16:09:25.385 [main] INFO  testCases.TC001_AccountRegistrationTest -*****Clicked on MyAccount Link*****
+16:09:26.999 [main] INFO  testCases.TC001_AccountRegistrationTest -*****clicked on Register LInk*****
+16:09:27.011 [main] INFO  testCases.TC001_AccountRegistrationTest -*****Providing customer Details*****
+16:09:30.733 [main] INFO  testCases.TC001_AccountRegistrationTest -****validating expected message*****
+16:09:30.945 [main] INFO  testCases.TC001_AccountRegistrationTest -*****Finished TC001_AccountRegistrationTest*****
+16:09:40.331 [main] INFO  testCases.TC002_LoginTest -****starting TC002_LoginTest****
+16:10:25.674 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\sowmy\eclipse-workspace\OpencartProject\grouping.xml
+
+16:10:37.377 [main] INFO  testCases.TC001_AccountRegistrationTest -*****Starting TC001_AccountRegistrationTest*****
+16:10:37.889 [main] INFO  testCases.TC001_AccountRegistrationTest -*****Clicked on MyAccount Link*****
+16:10:39.398 [main] INFO  testCases.TC001_AccountRegistrationTest -*****clicked on Register LInk*****
+16:10:39.405 [main] INFO  testCases.TC001_AccountRegistrationTest -*****Providing customer Details*****
+16:10:42.717 [main] INFO  testCases.TC001_AccountRegistrationTest -****validating expected message*****
+16:10:42.845 [main] INFO  testCases.TC001_AccountRegistrationTest -*****Finished TC001_AccountRegistrationTest*****
+16:10:53.509 [main] INFO  testCases.TC002_LoginTest -****starting TC002_LoginTest****
+16:17:45.530 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\sowmy\eclipse-workspace\OpencartProject\master.xml
+
+16:17:58.338 [main] WARN  org.testng.internal.Utils -The test method 'testCases.TC003_LoginDDT.verify_loginDDT' will be skipped since its data provider 'LoginData' returned an empty array or iterator. 
+16:20:51.821 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\sowmy\eclipse-workspace\OpencartProject\master.xml
+
+16:21:02.010 [main] INFO  testCases.TC001_AccountRegistrationTest -*****Starting TC001_AccountRegistrationTest*****
+16:21:02.447 [main] INFO  testCases.TC001_AccountRegistrationTest -*****Clicked on MyAccount Link*****
+16:21:03.884 [main] INFO  testCases.TC001_AccountRegistrationTest -*****clicked on Register LInk*****
+16:21:03.898 [main] INFO  testCases.TC001_AccountRegistrationTest -*****Providing customer Details*****
+16:21:09.480 [main] INFO  testCases.TC001_AccountRegistrationTest -****validating expected message*****
+16:21:09.583 [main] INFO  testCases.TC001_AccountRegistrationTest -*****Finished TC001_AccountRegistrationTest*****
+16:21:19.238 [main] INFO  testCases.TC002_LoginTest -****starting TC002_LoginTest****
+16:23:21.135 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\sowmy\eclipse-workspace\OpencartProject\test-output\testng-failed.xml
+
+16:23:32.318 [main] INFO  testCases.TC002_LoginTest -****starting TC002_LoginTest****
+16:23:39.420 [main] INFO  testCases.TC002_LoginTest -****finished TC002_LoginTest****
+16:27:49.641 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\sowmy\eclipse-workspace\OpencartProject\master.xml
+
+16:28:01.721 [main] INFO  testCases.TC001_AccountRegistrationTest -*****Starting TC001_AccountRegistrationTest*****
+16:28:02.136 [main] INFO  testCases.TC001_AccountRegistrationTest -*****Clicked on MyAccount Link*****
+16:28:03.870 [main] INFO  testCases.TC001_AccountRegistrationTest -*****clicked on Register LInk*****
+16:28:03.881 [main] INFO  testCases.TC001_AccountRegistrationTest -*****Providing customer Details*****
+16:28:10.275 [main] INFO  testCases.TC001_AccountRegistrationTest -****validating expected message*****
+16:28:21.944 [main] INFO  testCases.TC002_LoginTest -****starting TC002_LoginTest****
+16:29:48.604 [main] INFO  org.testng.internal.Utils -[TestNG] Running:
+  C:\Users\sowmy\eclipse-workspace\OpencartProject\master.xml
+
+16:30:00.709 [main] INFO  testCases.TC001_AccountRegistrationTest -*****Starting TC001_AccountRegistrationTest*****
+16:30:01.050 [main] INFO  testCases.TC001_AccountRegistrationTest -*****Clicked on MyAccount Link*****
